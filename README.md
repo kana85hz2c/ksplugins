@@ -16,6 +16,7 @@
 <img width="360" height="270" alt="Test-card" src="https://github.com/user-attachments/assets/1ed28444-84d5-4ff3-b263-720317de5f84" /><img width="360" height="270" alt="Halation-preview" src="https://github.com/user-attachments/assets/a1cd6bc2-8a87-4610-95dd-99546fb8ec84" />
 
 これが　→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→  こうなります
+Looks重くね？
 
 ## K_Outline
 境界線を重ねまくれるやつです。
