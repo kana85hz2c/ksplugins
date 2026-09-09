@@ -1,10 +1,17 @@
 # kuwagata's aeplugins
 なぜかほかの人が作ってくれないプラグインを入れる場所
 
-# K_VHS
+## K_VHS
 名前の通りVHS風フィルターをかけてくれます。
 必要なパラメーターだけにしぼり、処理をなるべく軽いものにしています。
 
-# K_Outline
+むかしテレビをビデオテープに録画してたアレ、を狙ってます
+
+
+<img width="360" height="270" alt="Test-card" src="https://github.com/user-attachments/assets/1ed28444-84d5-4ff3-b263-720317de5f84" /><img width="360" height="270" alt="Halation-preview" src="https://github.com/user-attachments/assets/a1cd6bc2-8a87-4610-95dd-99546fb8ec84" />
+
+これが　→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→  こうなります
+
+## K_Outline
 境界線を重ねまくれるやつです。
 重ねる数にキーが打てるのと、頂点を減らしたりラフ化できることがうまみです
